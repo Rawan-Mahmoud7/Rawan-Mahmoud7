@@ -7,7 +7,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="AI Animation"/>
+  <img src="assets/my-animation.gif" width="250" alt="AI Animation"/>
 </p>
 
 <!-- Typing Animation -->
@@ -92,3 +92,4 @@ Lightweight RAG pipeline for document-based QA with LLMs.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=7C3AED&style=flat" alt="views"/>
 </p>
+
