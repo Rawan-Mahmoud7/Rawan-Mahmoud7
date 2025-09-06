@@ -7,7 +7,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="assets/my-animation.gif" width="250" alt="AI Animation"/>
+  <img src="3486065893-preview-ezgif.com-video-to-gif-converter.gif" width="250" alt="AI Animation"/>
 </p>
 
 <!-- Typing Animation -->
